@@ -1,5 +1,5 @@
-1,Hamburguesa normal,burger/normal.png,hamburguesas,5.0f
-2,Hamburguesa con queso,burger/queso.png,hamburguesas,5.5f
+1,Hamburguesa normal,burger/normal.png,hamburguesas,5.0f,0
+2,Hamburguesa con queso,burger/queso.png,hamburguesas,5.5f,0
 5,Nuggets,burger/nuggets.png,complementos,3.00f,0
 6,Aros de cebolla,burger/aros.png,complementos,2.00f,0
 7,Agua,burger/agua.png,bebidas,1.00f,0

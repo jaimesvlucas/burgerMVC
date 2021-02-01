@@ -30,7 +30,9 @@ public class Utilidades {
 
                             while((producto = buffer.readLine())!=null) {
                                     productoLinea=producto.split(",");
-                                    p = new Producto(Integer.parseInt(productoLinea[0]),productoLinea[1],productoLinea[2],productoLinea[3],Float.parseFloat(productoLinea[4]),0);
+                                    p = new Producto(Integer.parseInt(productoLinea[0]),productoLinea[1],
+                                            productoLinea[2],productoLinea[3],Float.parseFloat(productoLinea[4]),
+                                            Integer.parseInt(productoLinea[5]));
                                     productos.add(p);					
                              }
 
